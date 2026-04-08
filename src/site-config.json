@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Weatherguard Windows & Doors",
+    "phone": "+13173870821",
+    "category": "window and door installer",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis Window & Door Experts",
+      "heroSubline": "Protect your home from Indiana's harsh weather. Expert installation and unparalleled service in the Indianapolis metro.",
+      "aboutTitle": "Built on Quality, Rooted in Indianapolis",
+      "aboutText": [
+        "Weatherguard Windows & Doors isn't just another contractor; we're your neighbors. Founded over a decade ago, we saw a need for reliable, high-quality window and door installation that could withstand Indiana's unpredictable climate. We've built our business on exceeding expectations, one home at a time.",
+        "Our approach is simple: treat every home as if it were our own. That means meticulous attention to detail, using only premium materials, and employing the most skilled installers in the region. We believe in doing the job right the first time, ensuring your peace of mind for years to come.",
+        "We're proud to be a part of the Indianapolis community. We actively support local initiatives and strive to create lasting relationships with our clients. When you choose Weatherguard, you're choosing a company that cares about your home and your neighborhood."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand the specific challenges Indianapolis homes face, from freeze-thaw cycles to summer humidity."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We partner with leading manufacturers to offer windows and doors that are built to last and enhance your home's value."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our certified installers ensure a precise fit and flawless performance, maximizing energy efficiency and security."
+        },
+        {
+          "title": "Unwavering Commitment",
+          "description": "We stand behind our work with comprehensive warranties and responsive customer support."
+        }
+      ],
+      "ctaHeadline": "Ready for an Upgrade?",
+      "ctaSubline": "Contact us today for a free, no-obligation estimate. Let's discuss how Weatherguard can transform your Indianapolis home."
+    },
+    "services": [
+      {
+        "slug": "window-installation",
+        "name": "Window Installation",
+        "shortDescription": "Precision window installation for Indianapolis homes, built to withstand Indiana weather.",
+        "description": "Weatherguard Windows & Doors delivers expert window installation services tailored to Indianapolis' unique climate. From the historic homes of Broad Ripple to the newer developments of Fishers and Carmel, we understand the specific needs of local homeowners. Our experienced installers handle every aspect of the process, from precise measurements to seamless finishing touches. We work with a variety of window styles, including double-hung, casement, sliding, and bay windows, using only premium materials from trusted manufacturers. \n\nOur window installation process is designed to minimize disruption to your home and ensure a flawless result. We start with a thorough assessment of your existing windows and provide a detailed proposal outlining the best options for your needs and budget. We then carefully remove your old windows, prepare the openings, and install your new windows with meticulous attention to detail. We seal and insulate each window to prevent drafts and water damage, ensuring optimal energy efficiency and long-lasting performance. We finish the job with professional caulking and trim work, leaving your home looking beautiful and protected.\n\nWe understand that window replacement is a significant investment, which is why we offer flexible financing options and comprehensive warranties. Our goal is to make the process as smooth and stress-free as possible, providing you with peace of mind knowing that your home is in good hands. Trust Weatherguard Windows & Doors for all your window installation needs in Indianapolis and the surrounding areas.",
+        "process": [
+          "Step 1: In-home consultation and measurement",
+          "Step 2: Window selection and quote",
+          "Step 3: Professional installation",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does window installation take?",
+            "answer": "The duration of window installation depends on the number of windows being replaced and the complexity of the project. Most installations can be completed in one to two days."
+          },
+          {
+            "question": "What type of windows are best for Indianapolis weather?",
+            "answer": "Windows with Low-E glass and argon gas fills are ideal for Indianapolis, as they provide excellent insulation and UV protection. Vinyl windows are also a durable and cost-effective option."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to help make window replacement more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation",
+        "name": "Door Installation",
+        "shortDescription": "Secure and stylish door installation services for Indianapolis homes.",
+        "description": "Weatherguard Windows & Doors provides professional door installation services throughout Indianapolis and the surrounding communities. Whether you're looking to upgrade your front entry, replace a patio door, or install a new storm door, our experienced team has the expertise to handle any project. We offer a wide selection of door styles and materials, including fiberglass, steel, wood, and composite, ensuring that you find the perfect fit for your home's aesthetic and security needs.\n\nOur door installation process begins with a thorough assessment of your existing door and frame. We then carefully remove the old door, prepare the opening, and install your new door with precision and attention to detail. We ensure a proper fit and alignment, preventing drafts and water leaks. We also install high-quality hardware and weatherstripping to maximize security and energy efficiency. We understand the importance of a secure and functional door, especially in Indianapolis, where extreme weather conditions can take a toll.\n\nWe're committed to providing our customers with exceptional service and quality workmanship. That's why we back our door installations with comprehensive warranties and responsive customer support. From the initial consultation to the final cleanup, we'll work closely with you to ensure your complete satisfaction. Trust Weatherguard Windows & Doors to enhance the security, beauty, and value of your Indianapolis home with our professional door installation services.",
+        "process": [
+          "Step 1: Consultation and door selection",
+          "Step 2: Precise measurements and ordering",
+          "Step 3: Professional door installation",
+          "Step 4: Quality inspection and cleanup"
+        ],
+        "benefits": [
+          "Enhanced home security",
+          "Improved energy efficiency",
+          "Increased curb appeal",
+          "Added home value"
+        ],
+        "faq": [
+          {
+            "question": "What type of door is best for security?",
+            "answer": "Steel doors are generally considered the most secure option for exterior doors. They are resistant to forced entry and can withstand harsh weather conditions."
+          },
+          {
+            "question": "How often should I replace my exterior doors?",
+            "answer": "Exterior doors typically last 15-30 years, depending on the material and maintenance. If your door is damaged, warped, or drafty, it may be time for a replacement."
+          },
+          {
+            "question": "Do you install storm doors?",
+            "answer": "Yes, we install storm doors to provide an extra layer of protection against the elements. Storm doors can also improve energy efficiency and ventilation."
+          }
+        ]
+      },
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Upgrade your Indianapolis home with energy-efficient window replacements.",
+        "description": "Is it time to replace your old, drafty windows? Weatherguard Windows & Doors offers comprehensive window replacement services throughout the Indianapolis metro area. We understand that older homes, especially those in neighborhoods like Broad Ripple and Meridian-Kessler, often have single-pane windows that are energy inefficient and can lead to high heating and cooling costs. That's why we offer a wide selection of energy-efficient replacement windows designed to improve comfort, reduce energy bills, and enhance the value of your home.\n\nOur window replacement process is seamless and hassle-free. We start with a free in-home consultation to assess your needs and provide a detailed estimate. We then carefully remove your old windows, ensuring minimal disruption to your home. Our experienced installers then install your new windows with precision and attention to detail, sealing and insulating them to prevent drafts and water leaks. We finish the job with professional caulking and trim work, leaving your home looking beautiful and protected.\n\nWe offer a variety of window styles and materials to suit your taste and budget, including vinyl, wood, and fiberglass. We also offer a range of energy-efficient options, such as Low-E glass, argon gas fills, and insulated frames. With Weatherguard Windows & Doors, you can be confident that you're getting the best possible window replacement services at a fair price.",
+        "process": [
+          "Step 1: Free in-home consultation",
+          "Step 2: Window selection and quote",
+          "Step 3: Professional window replacement",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Lower energy bills",
+          "Increased home comfort",
+          "Reduced noise pollution",
+          "Enhanced home value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need to replace my windows?",
+            "answer": "Signs that you may need to replace your windows include drafts, condensation between the panes of glass, difficulty opening or closing the windows, and high energy bills."
+          },
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows can significantly reduce your heating and cooling costs, improve your home's comfort, and reduce noise pollution."
+          },
+          {
+            "question": "What is Low-E glass?",
+            "answer": "Low-E glass is a type of glass that has a special coating that reflects heat and UV rays, helping to keep your home cooler in the summer and warmer in the winter."
+          }
+        ]
+      },
+      {
+        "slug": "door-replacement",
+        "name": "Door Replacement",
+        "shortDescription": "Upgrade your home's security and style with expert door replacement services.",
+        "description": "Weatherguard Windows & Doors offers professional door replacement services throughout Indianapolis and the surrounding areas. Whether you're looking to replace a damaged or outdated front door, upgrade to a more energy-efficient patio door, or add a stylish new entry door, our experienced team can handle any project. We understand that your doors are a critical part of your home's security, energy efficiency, and curb appeal, which is why we offer a wide selection of high-quality replacement doors from trusted manufacturers.\n\nOur door replacement process is designed to be seamless and stress-free. We start with a free in-home consultation to assess your needs and provide a detailed estimate. We then carefully remove your old door, ensuring minimal disruption to your home. Our experienced installers then install your new door with precision and attention to detail, ensuring a proper fit and alignment. We also install high-quality hardware and weatherstripping to maximize security and energy efficiency. We finish the job with professional caulking and trim work, leaving your home looking beautiful and protected.\n\nWe offer a variety of door styles and materials to suit your taste and budget, including fiberglass, steel, wood, and composite. We also offer a range of energy-efficient options, such as insulated cores and weatherstripping. With Weatherguard Windows & Doors, you can be confident that you're getting the best possible door replacement services at a fair price.",
+        "process": [
+          "Step 1: Free in-home consultation",
+          "Step 2: Door selection and quote",
+          "Step 3: Professional door replacement",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Enhanced home security",
+          "Improved energy efficiency",
+          "Increased curb appeal",
+          "Added home value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need to replace my door?",
+            "answer": "Signs that you may need to replace your door include drafts, difficulty opening or closing the door, visible damage or rot, and high energy bills."
+          },
+          {
+            "question": "What are the benefits of energy-efficient doors?",
+            "answer": "Energy-efficient doors can significantly reduce your heating and cooling costs, improve your home's comfort, and enhance your home's curb appeal."
+          },
+          {
+            "question": "What is the best material for a front door?",
+            "answer": "The best material for a front door depends on your priorities. Steel doors are the most secure, fiberglass doors are durable and energy-efficient, and wood doors offer a classic look."
+          }
+        ]
+      },
+      {
+        "slug": "patio-door-installation",
+        "name": "Patio Door Installation",
+        "shortDescription": "Expand your living space with expert patio door installation services in Indianapolis.",
+        "description": "Weatherguard Windows & Doors specializes in patio door installation, transforming Indianapolis homes with seamless transitions to outdoor living spaces. Whether you envision a sliding glass door leading to your backyard oasis or elegant French doors opening onto a deck, we deliver expert installation that enhances both the beauty and functionality of your home. Our team understands the importance of a properly installed patio door, ensuring smooth operation, energy efficiency, and lasting durability against Indiana's changing seasons.\n\nWe offer a wide selection of patio door styles and materials to complement your home's architecture and your personal taste. From classic sliding glass doors to elegant French doors and space-saving bi-fold doors, we have the perfect option for your needs. We work with premium materials like vinyl, fiberglass, and wood, ensuring that your new patio door is built to withstand the elements and provide years of reliable performance. Our experienced installers handle every aspect of the installation process, from precise measurements to meticulous finishing touches, ensuring a flawless result.\n\nWe understand that patio door installation is a significant investment, which is why we offer flexible financing options and comprehensive warranties. Our goal is to make the process as smooth and stress-free as possible, providing you with peace of mind knowing that your home is in good hands. Let Weatherguard Windows & Doors help you create the perfect indoor-outdoor living space with our expert patio door installation services.",
+        "process": [
+          "Step 1: Consultation and design",
+          "Step 2: Product Selection and ordering",
+          "Step 3: Installation",
+          "Step 4: Finishing and cleanup"
+        ],
+        "benefits": [
+          "Enhanced aesthetic appeal",
+          "Increased natural light",
+          "Seamless indoor-outdoor living",
+          "Improved property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of installing a new patio door?",
+            "answer": "A new patio door can enhance your home's aesthetic appeal, increase natural light, create a seamless transition to outdoor living spaces, and improve your property value."
+          },
+          {
+            "question": "What is the difference between sliding glass doors and French doors?",
+            "answer": "Sliding glass doors slide horizontally, while French doors swing open inward or outward. Sliding glass doors are typically more space-saving, while French doors offer a more traditional and elegant look."
+          },
+          {
+            "question": "How long does patio door installation take?",
+            "answer": "The duration of patio door installation depends on the complexity of the project. Most installations can be completed in one to two days."
+          }
+        ]
+      },
+      {
+        "slug": "storm-door-installation",
+        "name": "Storm Door Installation",
+        "shortDescription": "Protect your Indianapolis home with durable and stylish storm door installations.",
+        "description": "Weatherguard Windows & Doors provides expert storm door installation services to protect Indianapolis homes from the elements. Indiana's unpredictable weather, from harsh winters to severe thunderstorms, can take a toll on your entry doors. A properly installed storm door provides an extra layer of protection against rain, snow, wind, and debris, extending the life of your entry door and improving your home's energy efficiency.\n\nWe offer a wide selection of storm door styles and materials to complement your home's architecture and your personal preferences. From full-view storm doors to decorative storm doors with interchangeable glass and screen panels, we have the perfect option for your needs. We work with premium materials like aluminum, steel, and vinyl, ensuring that your new storm door is built to withstand the elements and provide years of reliable performance. Our experienced installers handle every aspect of the installation process, from precise measurements to meticulous finishing touches, ensuring a flawless result.\n\nWe understand that storm door installation is a smart investment in your home's protection and energy efficiency. That's why we offer competitive pricing and comprehensive warranties. Our goal is to make the process as smooth and stress-free as possible, providing you with peace of mind knowing that your home is well-protected. Choose Weatherguard Windows & Doors for reliable storm door installation services in Indianapolis and the surrounding areas.",
+        "process": [
+          "Step 1: Consultation and selection",
+          "Step 2: Precise measurements",
+          "Step 3: Professional installation",
+          "Step 4: Final inspection"
+        ],
+        "benefits": [
+          "Protects your entry door from the elements",
+          "Improves energy efficiency",
+          "Adds an extra layer of security",
+          "Enhances curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of installing a storm door?",
+            "answer": "A storm door protects your entry door from the elements, improves energy efficiency, adds an extra layer of security, and enhances your home's curb appeal."
+          },
+          {
+            "question": "What type of storm door is best for my home?",
+            "answer": "The best type of storm door depends on your needs and preferences. Full-view storm doors offer maximum visibility, while decorative storm doors add style and charm."
+          },
+          {
+            "question": "How long does storm door installation take?",
+            "answer": "Storm door installation typically takes a few hours, depending on the complexity of the project."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "Weatherguard Windows & Doors is proud to offer our expert window and door installation services to homeowners in Carmel, Indiana. Known for its upscale neighborhoods and well-maintained homes, Carmel presents unique opportunities for enhancing curb appeal and energy efficiency through high-quality window and door replacements. We understand the architectural styles prevalent in Carmel, from the classic designs to the more modern aesthetics found in the newer developments. Our team is committed to providing customized solutions that perfectly complement your home's character while meeting your specific needs.\n\nWe recognize the importance of energy efficiency in Carmel, especially with the cold Indiana winters. Our energy-efficient windows and doors can significantly reduce your heating and cooling costs, keeping your home comfortable year-round. We offer a wide selection of styles and materials to choose from, ensuring that you find the perfect fit for your home and budget. From initial consultation to final installation, Weatherguard Windows & Doors is dedicated to providing exceptional service and quality workmanship to our Carmel customers.",
+        "localContext": "Carmel, Indiana, boasts upscale 1980s-2000s developments, with a climate characterized by cold winters with snow and ice, making energy-efficient windows and doors a valuable investment for homeowners.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Westfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "Weatherguard Windows & Doors provides professional window and door installation services to the residents of Fishers, Indiana. As one of the fastest-growing communities in Indiana, Fishers features a diverse range of architectural styles, primarily newer planned communities built from the 1990s to the 2020s. We understand the unique needs of Fishers homeowners and offer a wide variety of window and door options to complement these modern homes.\n\nWe are committed to providing energy-efficient solutions to combat the cold Indiana winters. Our windows and doors help reduce energy costs and improve the comfort of your home. Weatherguard Windows & Doors uses only the highest quality materials and expert installation techniques to ensure that your new windows and doors will last for years to come. We are dedicated to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Fishers, Indiana, is known for its newer 1990s-2020s planned communities and experiences cold winters with snow and ice, making energy efficiency a priority for many residents.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Noblesville",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "Weatherguard Windows & Doors is proud to serve the historic city of Noblesville, Indiana, with our expert window and door installation services. Noblesville features a charming mix of historic homes, particularly around the Courthouse Square area, and newer developments. We understand the importance of preserving the architectural integrity of older homes while providing modern energy efficiency and security.\n\nWe offer a wide range of window and door styles to complement the unique character of Noblesville homes, from traditional designs to contemporary options. Our team is experienced in working with older homes and ensuring that new windows and doors are installed with care and precision. Whether you are looking to restore your historic home or upgrade to more energy-efficient options, Weatherguard Windows & Doors is here to help. We are committed to providing exceptional service and quality workmanship to our Noblesville customers.",
+        "localContext": "Noblesville, Indiana, features a historic Courthouse Square area with older homes and experiences cold winters with snow and ice, necessitating quality window and door solutions for maintaining comfort and historical aesthetics.",
+        "nearbyAreas": [
+          "Fishers",
+          "Carmel",
+          "Cicero"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "Weatherguard Windows & Doors is Indianapolis's premier window and door installation company. Serving the entire Indianapolis metropolitan area, we offer a wide variety of window and door solutions for homes of all styles and ages. From historic districts to modern suburban neighborhoods, we have the experience and expertise to meet your specific needs.\n\nWe understand the diverse needs of Indianapolis homeowners and are committed to providing exceptional customer service. Our team of experienced professionals will work with you to find the perfect windows and doors for your home, ensuring that they are installed with precision and care. With Indianapolis's variable climate, energy efficiency is a top priority, and our products are designed to keep your home comfortable year-round.",
+        "localContext": "Indianapolis, Indiana, boasts diverse neighborhoods and experiences variable weather patterns, making quality window and door solutions essential for maintaining comfort and energy efficiency.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "Weatherguard Windows & Doors provides top-notch window and door installation services to homeowners in Zionsville, Indiana. Known for its charming village atmosphere and beautiful homes, Zionsville presents unique opportunities for enhancing curb appeal and energy efficiency through high-quality window and door replacements. We understand the architectural styles prevalent in Zionsville, including the distinctive brick streets and historic buildings. Our team is committed to providing customized solutions that perfectly complement your home's character while meeting your specific needs.\n\nWe recognize the importance of energy efficiency in Zionsville, particularly with the cold Indiana winters. Our energy-efficient windows and doors can significantly reduce your heating and cooling costs, keeping your home comfortable year-round. We offer a wide selection of styles and materials to choose from, ensuring that you find the perfect fit for your home and budget. From initial consultation to final installation, Weatherguard Windows & Doors is dedicated to providing exceptional service and quality workmanship to our Zionsville customers.",
+        "localContext": "Zionsville, Indiana, features a charming village atmosphere and experiences cold winters with snow and ice, making energy-efficient windows and doors a valuable asset for homeowners.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Lebanon"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "Weatherguard Windows & Doors is proud to offer our expert window and door installation services to homeowners in Greenwood, Indiana. Greenwood features a mix of established neighborhoods and newer developments, offering a diverse range of architectural styles. We understand the unique needs of Greenwood homeowners and offer a wide variety of window and door options to complement their homes.\n\nWe are committed to providing energy-efficient solutions to combat the cold Indiana winters. Our windows and doors help reduce energy costs and improve the comfort of your home. Weatherguard Windows & Doors uses only the highest quality materials and expert installation techniques to ensure that your new windows and doors will last for years to come. We are dedicated to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Greenwood, Indiana, features a mix of established neighborhoods and experiences cold winters with snow and ice, making energy efficiency a significant concern for residents.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Franklin",
+          "Beech Grove"
+        ]
+      },
+      {
+        "city": "Plainfield",
+        "slug": "plainfield-in",
+        "state": "IN",
+        "content": "Weatherguard Windows & Doors is delighted to serve the community of Plainfield, Indiana, providing expert window and door installation services. Plainfield is known for its family-friendly atmosphere and growing community, with a variety of housing styles. We are committed to offering solutions that meet the diverse needs of Plainfield homeowners.\n\nOur priority is to provide energy-efficient options that will help lower your utility bills and enhance your home's comfort. We offer a wide selection of windows and doors to improve the look and feel of your home. Weatherguard Windows & Doors is committed to quality products and excellent customer service.",
+        "localContext": "Plainfield, Indiana, is known for its family-friendly atmosphere and experiences cold winters with snow and ice, making energy-efficient windows and doors important for homeowners.",
+        "nearbyAreas": [
+          "Avon",
+          "Brownsburg",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Brownsburg",
+        "slug": "brownsburg-in",
+        "state": "IN",
+        "content": "Weatherguard Windows & Doors is dedicated to providing Brownsburg, Indiana, with top-quality window and door installation services. Brownsburg is a thriving community with a mix of residential areas, making it essential to offer versatile window and door solutions. We are committed to meeting the diverse needs of Brownsburg homeowners with our extensive product range.\n\nWe focus on delivering energy-efficient products that will help reduce utility bills and enhance the comfort of your home. Our selection of windows and doors is designed to improve the overall aesthetic of your home. Weatherguard Windows & Doors stands for superior quality and outstanding customer service.",
+        "localContext": "Brownsburg, Indiana, is a thriving community with diverse residential areas and experiences cold winters with snow and ice, making energy-efficient windows and doors a smart choice for homeowners.",
+        "nearbyAreas": [
+          "Avon",
+          "Plainfield",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "Weatherguard Windows & Doors is proud to offer professional window and door installation services to the residents of Westfield, Indiana. Westfield is a rapidly growing community with a mix of established neighborhoods and new developments. We understand the unique needs of Westfield homeowners and offer a wide variety of window and door options to complement these homes.\n\nWe are committed to providing energy-efficient solutions to combat the cold Indiana winters. Our windows and doors help reduce energy costs and improve the comfort of your home. Weatherguard Windows & Doors uses only the highest quality materials and expert installation techniques to ensure that your new windows and doors will last for years to come. We are dedicated to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Westfield, Indiana, is a rapidly growing community and experiences cold winters with snow and ice, making energy efficiency a priority for many residents.",
+        "nearbyAreas": [
+          "Carmel",
+          "Noblesville",
+          "Sheridan"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Window Installation",
+        "text": "Weatherguard did an amazing job replacing all the windows in my Broad Ripple bungalow. The team was professional, efficient, and the new windows look fantastic. My house is noticeably warmer already!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Door Replacement",
+        "text": "We had Weatherguard replace our front door after years of struggling with the old one. The new door is solid, secure, and looks great. There were a couple minor hiccups during installation, but they were quick to address them.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Patio Door Installation",
+        "text": "We had Weatherguard install a new sliding patio door in our Fishers home, and we couldn't be happier. The installation was smooth, and the new door has made a huge difference in the amount of light in our living room.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Fantastic experience from start to finish. Weatherguard replaced all the windows in our Noblesville home. The installers were courteous and cleaned up everything perfectly. Highly recommend!",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 5,
+        "service": "Storm Door Installation",
+        "text": "Weatherguard installed a new storm door for us, and it's already made a difference. Our entryway feels warmer and more secure. The installer was very professional and did a great job.",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Mike S.",
+        "rating": 4,
+        "service": "Window Installation",
+        "text": "We needed 14 windows installed. Weatherguard got the job done in 2 days. Solid work and a fair price. Would use again.",
+        "date": "2024-06-03"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Weatherguard Windows & Doors | Indianapolis, IN",
+        "description": "Indianapolis's trusted window and door installer. Expert service, premium products, and lasting protection for your home."
+      },
+      "about": {
+        "title": "About Weatherguard Windows & Doors",
+        "description": "Learn about Weatherguard Windows & Doors' history, values, and commitment to the Indianapolis community."
+      },
+      "services": {
+        "title": "Window & Door Services | Indianapolis",
+        "description": "Expert window and door installation and replacement services in Indianapolis, IN. Serving Carmel, Fishers, and Noblesville."
+      },
+      "contact": {
+        "title": "Contact Weatherguard Windows & Doors",
+        "description": "Contact Weatherguard Windows & Doors for a free estimate on window and door installation in Indianapolis."
+      },
+      "reviews": {
+        "title": "Weatherguard Customer Reviews",
+        "description": "Read reviews from Weatherguard Windows & Doors customers in Indianapolis, Carmel, Fishers, and Noblesville."
+      },
+      "service-areas": {
+        "title": "Service Areas - Windows & Doors",
+        "description": "Weatherguard Windows & Doors service areas in Indianapolis. Carmel, Fishers, and Noblesville"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-installation": "/images/service-window-installation.webp",
+      "door-installation": "/images/service-door-installation.webp",
+      "window-replacement": "/images/service-window-replacement.webp",
+      "door-replacement": "/images/service-door-replacement.webp",
+      "patio-door-installation": "/images/service-patio-door-installation.webp",
+      "storm-door-installation": "/images/service-storm-door-installation.webp"
+    },
+    "servicesResponsive": {
+      "window-installation": {
+        "src": "/images/service-window-installation.webp",
+        "srcset": "/images/service-window-installation-400w.webp 400w, /images/service-window-installation-800w.webp 800w, /images/service-window-installation-1200w.webp 1200w, /images/service-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation": {
+        "src": "/images/service-door-installation.webp",
+        "srcset": "/images/service-door-installation-400w.webp 400w, /images/service-door-installation-800w.webp 800w, /images/service-door-installation-1200w.webp 1200w, /images/service-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-replacement": {
+        "src": "/images/service-door-replacement.webp",
+        "srcset": "/images/service-door-replacement-400w.webp 400w, /images/service-door-replacement-800w.webp 800w, /images/service-door-replacement-1200w.webp 1200w, /images/service-door-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-door-installation": {
+        "src": "/images/service-patio-door-installation.webp",
+        "srcset": "/images/service-patio-door-installation-400w.webp 400w, /images/service-patio-door-installation-800w.webp 800w, /images/service-patio-door-installation-1200w.webp 1200w, /images/service-patio-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-door-installation": {
+        "src": "/images/service-storm-door-installation.webp",
+        "srcset": "/images/service-storm-door-installation-400w.webp 400w, /images/service-storm-door-installation-800w.webp 800w, /images/service-storm-door-installation-1200w.webp 1200w, /images/service-storm-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
